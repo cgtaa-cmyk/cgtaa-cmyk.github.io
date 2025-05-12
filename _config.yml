@@ -28,8 +28,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://cgtaa-cmyk.github.io/"
+  email            : "cgt@" 
 
   # Academic websites
   academia         : # URL
