@@ -1,54 +1,52 @@
 ---
 permalink: /
-title: "陈冠廷的个人主页"
+title: "Guanting Chen's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 
-# 陈冠廷 (Chen Guanting)
+# Guanting Chen (陈冠廷)
 
-## 基本信息
-- **院校**：北京邮电大学 计算机学院  
-- **年级**：研一 (2024级)  
-- **学号**：2024111784  
-- **邮箱**：cgt@bupt.edu.cn  
-- **研究方向**：大模型、检索技术（RAG、GraphRAG等）  
+## Basic Information
+- **Institution**: Beijing University of Posts and Telecommunications (BUPT), School of Computer Science  
+- **Grade**: First-year Master's Student (2024 intake)  
+- **Student ID**: 2024111784  
+- **Email**: cgt@bupt.edu.cn  
+- **Research Interests**: Large Language Models, Retrieval Technologies (RAG, GraphRAG, etc.)  
 
-## 教育背景
-- **北京邮电大学**  
-  计算机科学与技术 硕士研究生  
-  2024.09 - 至今  
+## Education Background
+- **Beijing University of Posts and Telecommunications**  
+  Master of Computer Science and Technology  
+  Sep 2024 - Present  
 
-- **本科院校**
-- **深圳大学**
-  计算机科学与技术 学士  
-  2019.09 - 2023.06  
+- **Shenzhen University**  
+  Bachelor of Computer Science and Technology  
+  Sep 2019 - Jun 2023  
 
-## 研究方向
-- 大语言模型（LLM）应用与优化  
-- 检索增强生成（RAG）及相关技术  
-- 图结构数据在检索中的应用（GraphRAG）  
+## Research Interests
+- Application and Optimization of Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG) and Related Technologies  
+- Graph-structured Data in Retrieval Systems (GraphRAG)  
 
-## 项目经历
-### 1. 基于RAG的问答系统优化  
-- 使用BERT等模型改进检索模块，提升问答准确性  
-- 探索多模态数据在RAG中的应用  
+## Project Experience
+### 1. RAG-based QA System Optimization  
+- Improved retrieval module using BERT and other models to enhance QA accuracy  
+- Explored multimodal data applications in RAG frameworks  
 
-### 2. GraphRAG相关研究  
-- 研究图神经网络在知识图谱检索中的应用  
-- 设计基于图结构的检索增强方法  
+### 2. GraphRAG Research  
+- Investigated graph neural networks for knowledge graph retrieval  
+- Designed graph-structure-based retrieval augmentation methods  
 
-## 技能
-- **编程语言**：Python、C++、Java  
-- **框架工具**：PyTorch、HuggingFace Transformers、LangChain  
-- **其他技能**：机器学习、数据挖掘、自然语言处理  
+## Technical Skills
+- **Programming Languages**: Python, C++, Java  
+- **Frameworks & Tools**: PyTorch, HuggingFace Transformers, LangChain  
+- **Other Skills**: Machine Learning, Data Mining, Natural Language Processing  
 
-## 荣誉奖励
-- (可补充奖学金、竞赛获奖等)  
+## Honors & Awards
+- (To be filled with scholarships, competition awards, etc.)  
 
-## 联系方式
-- **邮箱**：cgt@bupt.edu.cn  
-- **GitHub**： https://github.com/cgtaa-cmyk/
+## Contact
+- **Email**: cgt@bupt.edu.cn  
+- **GitHub**: https://github.com/cgtaa-cmyk/
