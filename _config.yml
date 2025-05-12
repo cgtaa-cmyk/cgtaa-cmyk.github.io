@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "ChenGuanTing"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "BeiJing"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              : "https://cgtaa-cmyk.github.io/"
